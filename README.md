@@ -116,6 +116,9 @@ Yellow for countries with 15 or more customers
 Red for countries with the highest customer counts
 All dashboard elements — including slicers, cards, table, map and charts were fully interactive, allowing users to filter data dynamically by date, product category, and region to gain deeper insights.
 
+![Report Visual](https://github.com/user-attachments/assets/03e93625-e666-444e-bc6d-fe07cc5a7f23)
+
+
 ## 📋 Phase 4: Business Insights & Recommendations
 This phase compiles key insights and data-driven recommendations from the Power BI dashboard built on the Online Retail II dataset. It focuses on identifying sales trends, top-performing products and regions, strategic opportunities, and actionable steps to drive business growth.
 ### 🔹 Sales Trends
